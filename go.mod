@@ -1,3 +1,3 @@
-module hello
+module integers
 
 go 1.14
